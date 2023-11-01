@@ -1,1 +1,1 @@
-# typescript_steele
+# Typescript notes
